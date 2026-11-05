@@ -57,5 +57,5 @@ title: "Agenda ideas"
 
 ::: {.sortable-checklist}
 - [ ] Meta: group organization, website, GitHub repo and issues, etc.
-- [ ] Coding agents and 'AI' ethics
+- [ ] Coding agents and AI ethics
 :::
